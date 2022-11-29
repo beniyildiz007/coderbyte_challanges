@@ -4,6 +4,7 @@
 ### Soru 1
 ### Soru 2
 ### Soru 3
+![Coderbyte Challange Question 3](https://prnt.sc/AdmS62l0Hfk1)
 ```python
 listem = [3,4,5,6,7,8]
 liste2=listem[listem[0]:(len(listem))]
