@@ -30,7 +30,7 @@ def MathChallenge(num1,num2):
   return ebob
 
 # keep this function call here 
-print MathChallenge(raw_input())
+print(MathChallenge(input()))
 ```
 ### Soru 3
 <p align="left">
