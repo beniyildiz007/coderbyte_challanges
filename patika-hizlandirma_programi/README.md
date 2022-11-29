@@ -4,7 +4,9 @@
 ### Soru 1
 ### Soru 2
 ### Soru 3
-![Coderbyte Challange Question 3](https://prnt.sc/AdmS62l0Hfk1)
+<p align="center">
+  <img width="250" height="250" src="https://www.yazilimturkiye.com/wp-content/uploads/2021/06/yenilogo.jpg">
+</p>
 ```python
 listem = [3,4,5,6,7,8]
 liste2=listem[listem[0]:(len(listem))]
