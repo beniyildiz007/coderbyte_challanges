@@ -5,8 +5,9 @@
 ### Soru 2
 ### Soru 3
 <p align="center">
-  <img width="250" height="250" src="https://www.yazilimturkiye.com/wp-content/uploads/2021/06/yenilogo.jpg">
+  <img width="250" height="250" src="https://prnt.sc/AdmS62l0Hfk1">
 </p>
+
 ```python
 listem = [3,4,5,6,7,8]
 liste2=listem[listem[0]:(len(listem))]
