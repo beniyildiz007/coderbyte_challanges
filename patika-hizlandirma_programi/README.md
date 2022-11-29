@@ -5,7 +5,7 @@
 ### Soru 2
 ### Soru 3
 <p align="center">
-  <img width="250" height="250" src="C:\Kullanıcılar\Ogrenci\Masaüstü\resim.png">
+  <img width="250" height="250" src="https://imgyukle.com/f/2022/11/29/JHEcff.png">
 </p>
 
 ```python
