@@ -9,10 +9,16 @@
 </p>
 
 ```python
-listem = [3,4,5,6,7,8]
-liste2=listem[listem[0]:(len(listem))]
-for i in range (0,listem[0]):
-    liste2.append(listem[i])
-print(liste2)
+def ArrayChallenge(arr):
+
+  # code goes here
+  liste2 = arr[arr[0]:(len(arr))]
+  for i in range (0,arr[0]):
+    liste2.append(arr[i])
+  for num in liste2:
+    print(num, end="")
+
+# keep this function call here 
+ArrayChallenge(input())
 ```
 
