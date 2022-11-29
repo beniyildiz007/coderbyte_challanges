@@ -23,7 +23,7 @@ def MathChallenge(num1,num2):
     for i in range (1,(num1+1)):
       if num1%i==0 and num2%i==0:
         ebob=i
-  if num2 < num1:
+  else:
     for i in range (1,(num2+1)):
       if num2%i==0 and num1%i==0:
         ebob=i
