@@ -132,7 +132,7 @@ print(StringChallenge(input()))
 ```
 ### Soru 2
 <p align="left">
-  <img width="250" height="250" src="https://imgyukle.com/f/2022/11/29/JHVV26.png">
+  <img width="250" height="250" src="https://i.hizliresim.com/4mfthf9.jpg">
 </p>
 
 ```python
@@ -155,7 +155,7 @@ print(MathChallenge(input()))
 ```
 ### Soru 3
 <p align="left">
-  <img width="250" height="250" src="https://imgyukle.com/f/2022/11/29/JHEcff.png">
+  <img width="250" height="250" src="https://i.hizliresim.com/sn6j9d1.jpg">
 </p>
 
 ```python
